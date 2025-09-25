@@ -27,7 +27,7 @@ pip install seleniumbase
 
 Before running the script, you need to set up Chrome profiles for each Twitter account:
 
-1. Create directories for each profile in the script's directory:(We have the directories but if you want to login a new account, run driver_login, login the user on twitter and end the session, it automatically creates the directory)
+1. Create directories for each profile in the script's directory:(I didn't add the directories for security reasons run driver_login, login the user on twitter and end the session, it automatically creates the directory. Repeat it for each account)
 
    ```
    twitter_data_dir_username1/
